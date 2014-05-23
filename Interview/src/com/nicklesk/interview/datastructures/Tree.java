@@ -1,8 +1,5 @@
 package com.nicklesk.interview.datastructures;
 
-import java.util.PriorityQueue;
-import java.util.Queue;
-
 public class Tree {
 	public Node mRoot;
 
